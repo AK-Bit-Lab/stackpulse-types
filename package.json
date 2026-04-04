@@ -1,13 +1,25 @@
 {
   "name": "stackpulse-types",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TypeScript type definitions for StackPulse ecosystem",
   "main": "index.d.ts",
   "types": "index.d.ts",
-  "scripts": { "test": "echo \"Error: no test specified\" && exit 0" },
-  "keywords": ["stacks", "pulse", "types", "typescript"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "stacks",
+    "pulse",
+    "types",
+    "typescript"
+  ],
   "author": "AdekunleBamz",
   "license": "MIT",
-  "repository": { "type": "git", "url": "https://github.com/AdekunleBamz/stackpulse-types.git" },
-  "publishConfig": { "access": "public" }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdekunleBamz/stackpulse-types.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }
