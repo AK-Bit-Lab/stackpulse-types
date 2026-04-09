@@ -1,6 +1,6 @@
 {
   "name": "stackpulse-types",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "TypeScript type definitions for StackPulse ecosystem",
   "main": "index.d.ts",
   "types": "index.d.ts",
@@ -17,8 +17,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AdekunleBamz/stackpulse-types.git"
+    "url": "git+https://github.com/AdekunleBamz/StackPulse.git"
   },
+  "bugs": {
+    "url": "https://github.com/AdekunleBamz/StackPulse/issues"
+  },
+  "homepage": "https://github.com/AdekunleBamz/StackPulse#readme",
   "publishConfig": {
     "access": "public"
   }
